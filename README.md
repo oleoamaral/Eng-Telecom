@@ -6,5 +6,6 @@
 	\____/_| |_|\__, (_)   \_/\___|_|\___|\___\___/|_| |_| |_|
                  __/ |                                    UFSM    
                 |___/
-                                
+
+Telecommunications Engineering - Federal University of Santa Maria
                                 
