@@ -7,5 +7,9 @@
                  __/ |                                    UFSM    
                 |___/
 
-Telecommunications Engineering - Federal University of Santa Maria
+# Telecommunications Engineering - Federal University of Santa Maria
+
+## Description 
+This repository contains code developed for some courses in the Telecommunications Engineering program. Part of the code is original, while others have been adapted based on references and supplementary resources. 
+
                                 
